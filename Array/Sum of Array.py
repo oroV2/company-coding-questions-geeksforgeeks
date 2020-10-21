@@ -12,9 +12,12 @@ Input:
 N = 3
 Arr[] = {1, 3, 3}
 Output: 7
+
 Explanation: 1 + 3 + 3 = 7.
 Your Task:
-Complete the function sum() which takes array arr and single integer n, as input parameters and returns an integer denoting the answer. You don't to print answer or take inputs.
+Complete the function sum() which takes array arr and single integer n, as input
+parameters and returns an integer denoting the answer. You don't to print answer
+or take inputs.
 
 Expected Time Complexity: O(N)
 Expected Auxiliary Space: O(1)

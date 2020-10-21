@@ -29,7 +29,6 @@ Constraints:
 """
 class Solution:
     def maxDays(self, arr, n):
-        # code here
         out = 0
         for i in range(n):
             if out < arr[i]:

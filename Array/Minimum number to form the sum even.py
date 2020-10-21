@@ -34,14 +34,12 @@ class Solution:
         for i in range(0,n):
             if arr[i] % 2 == 1:
                 a += 1
-
         if a % 2 == 0:
             return 2
         elif a % 2 == 1:
             return 1
 
 if __name__ == '__main__':
-
     t=int(input())
     for _ in range(0,t):
         n=int(input())
